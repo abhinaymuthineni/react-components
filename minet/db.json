@@ -1,0 +1,242 @@
+{
+  "cryptoItems": [
+    {
+      "id": 1,
+      "image": "explore.png",
+      "title": "Bitcoin",
+      "price": "$3,406,069.54",
+      "status": "false"
+    },
+    {
+      "id": 2,
+      "image": "etherum.png",
+      "title": "Etherum",
+      "price": "$240,048.03",
+      "status": "false"
+    },
+    {
+      "id": 3,
+      "image": "binance.png",
+      "title": "Binance",
+      "price": "$30,054.88",
+      "status": "false"
+    },
+    {
+      "id": 4,
+      "image": "Tether.png",
+      "title": "Tether",
+      "price": "$74.21",
+      "status": "false"
+    },
+    {
+      "id": 5,
+      "image": "cardano.png",
+      "title": "Cardono",
+      "price": "$138.22",
+      "status": "false"
+    },
+    {
+      "id": 6,
+      "image": "xrp.png",
+      "title": "XRP",
+      "price": "$76.73",
+      "status": "false"
+    },
+    {
+      "id": 7,
+      "image": "dogecoin.png",
+      "title": "Dogecoin",
+      "price": "$21.37",
+      "status": "false"
+    },
+    {
+      "id": 8,
+      "image": "polka.png",
+      "title": "Polkadot",
+      "price": "$1642.39",
+      "status": "false"
+    },
+    {
+      "id": 9,
+      "image": "cardano.png",
+      "title": "Cardono",
+      "price": "$138.22",
+      "status": "false"
+    },
+    {
+      "id": 10,
+      "image": "xrp.png",
+      "title": "XRP",
+      "price": "$76.73",
+      "status": "false"
+    },
+    {
+      "id": 11,
+      "image": "dogecoin.png",
+      "title": "Dogecoin",
+      "price": "$21.37",
+      "status": "false"
+    },
+    {
+      "id": 12,
+      "image": "polka.png",
+      "title": "Polkadot",
+      "price": "$1642.39",
+      "status": "false"
+    },
+    {
+      "id": 13,
+      "image": "explore.png",
+      "title": "Bitcoin",
+      "price": "$3,406,069.54",
+      "status": "false"
+    },
+    {
+      "id": 14,
+      "image": "etherum.png",
+      "title": "Etherum",
+      "price": "$240,048.03",
+      "status": "false"
+    },
+    {
+      "id": 15,
+      "image": "binance.png",
+      "title": "Binance",
+      "price": "$30,054.88",
+      "status": "false"
+    },
+    {
+      "id": 16,
+      "image": "Tether.png",
+      "title": "Tether",
+      "price": "$74.21",
+      "status": "false"
+    }
+  ],
+  "discoverItems": [
+    {
+      "id": 1,
+      "cryptoImage": "explore.png",
+      "cryptoItem": "Bitcoin",
+      "price": "$3,00,439.93",
+      "graph": "bitcoinGraph.png"
+    },
+    {
+      "id": 2,
+      "cryptoImage": "etherum.png",
+      "cryptoItem": "Etherum",
+      "price": "$26,128.24",
+      "graph": "bitcoinGraph.png"
+    },
+    {
+      "id": 3,
+      "cryptoImage": "etherum.png",
+      "cryptoItem": "Etherum 2",
+      "price": "$26,128.24",
+      "graph": "bitcoinGraph.png"
+    },
+    {
+      "id": 4,
+      "cryptoImage": "Tether.png",
+      "cryptoItem": "Tether",
+      "price": "$74.14",
+      "graph": "bitcoinGraph.png"
+    }
+  ],
+  "selectedItems": [],
+  "purchasedItems": [
+    {
+      "id": 1,
+      "image": "explore.png",
+      "title": "Bitcoin",
+      "price": "$3,406,069.54"
+    }
+  ],
+  "soldItems": [
+    {
+      "id": 1,
+      "image": "explore.png",
+      "title": "Bitcoin",
+      "price": "$3,406,069.54"
+    }
+  ],
+  "portfolioItems": [
+    {
+      "id": 1,
+      "image": "explore.png",
+      "cryptoItem": "Bitcoin",
+      "price": "$34,000.00",
+      "profit": "+1.2%",
+      "group": "BTC"
+    },
+    {
+      "id": 2,
+      "image": "etherum.png",
+      "cryptoItem": "Etherum",
+      "price": "$230,966.00",
+      "profit": "+6.85%",
+      "group": "ETH"
+    },
+    {
+      "id": 3,
+      "image": "Tether.png",
+      "cryptoItem": "Tether",
+      "price": "$78.00",
+      "profit": "-0.01%",
+      "group": "USDT"
+    },
+    {
+      "id": 4,
+      "image": "explore.png",
+      "cryptoItem": "Bitcoin",
+      "price": "$34,000.00",
+      "profit": "+1.2%",
+      "group": "BTC"
+    }
+  ],
+  "buttonList": [
+    {
+      "id": 1,
+      "buttonval": "Bitcoin",
+      "border": "1px solid orange",
+      "background": "rgba(247, 147, 26, 0.2)"
+    },
+    {
+      "id": 2,
+      "buttonval": "XRP",
+      "border": "1px solid black",
+      "background": "rgba(34, 34, 34, 0.2)"
+    },
+    {
+      "id": 3,
+      "buttonval": "Polkadot",
+      "border": "1px solid #E6007A",
+      "background": "rgba(230, 0, 122, 0.2);"
+    },
+    {
+      "id": 4,
+      "buttonval": "Etherum",
+      "border": "1px solid #627EEAe",
+      "background": " rgba(98, 126, 234, 0.2);"
+    },
+    {
+      "id": 5,
+      "buttonval": "Tether",
+      "border": "1px solid #26A17B",
+      "background": " rgba(38, 161, 123, 0.2)"
+    },
+    {
+      "id": 6,
+      "buttonval": "Etherum2",
+      "border": "1px solid #191971",
+      "background": "rgba(25, 25, 113, 0.2)"
+    },
+    {
+      "id": 7,
+      "buttonval": "Dogecoin",
+      "border": "1px solid #DBC984",
+      "background": "rgba(219, 201, 132, 0.2)"
+    }
+  ],
+  "transaction": []
+}
